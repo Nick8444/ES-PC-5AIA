@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="PCData.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<Sezione id="5AIA">
+    <Alunno>
+        <Nome>Francesco</Nome>
+        <Cognome>Savino</Cognome>  
+        <Dispositivo tipo="Personale">
+            <os>Linux</os>
+            <Data_assegnazione>2026-10-08</Data_assegnazione>
+            <Data_utilizzo>2026-10-08</Data_utilizzo>
+        </Dispositivo>
+    </Alunno>
+    <Alunno>
+        <Nome>Giuseppe</Nome>
+        <Cognome>Caldarola</Cognome>
+        <Dispositivo tipo="Scolastico" codice="6087" >
+            <os>IOS</os>
+            <Data_assegnazione>2026-10-08</Data_assegnazione>
+            <Data_utilizzo>2026-10-08</Data_utilizzo>
+        </Dispositivo>
+    </Alunno>
+    <Alunno>
+        <Nome>Emanuele</Nome>
+        <Cognome>Lovascio</Cognome>
+        <Dispositivo tipo="Scolastico" codice="6102" >
+            <os>IOS</os>
+            <app>Vscode</app>
+            <Data_assegnazione>2026-10-08</Data_assegnazione>
+            <Data_utilizzo>2026-10-08</Data_utilizzo>
+        </Dispositivo>
+    </Alunno>
+    <Alunno>
+        <Nome>Gaetano</Nome>
+        <Cognome>Napoli</Cognome>
+        <Dispositivo tipo="Scolastico" codice="6103" >
+            <os>IOS</os>
+            <app>Vscode</app>
+            <Data_assegnazione>2026-10-08</Data_assegnazione>
+            <Data_utilizzo>2026-10-08</Data_utilizzo>
+        </Dispositivo>
+    </Alunno>
+    <Alunno>
+        <Nome>Claudio</Nome>
+        <Cognome>DeChiara</Cognome>
+        <Dispositivo tipo="Scolastico" codice="6091" >
+            <os>IOS</os>
+            <app>Vscode</app>
+            <Data_assegnazione>2026-10-08</Data_assegnazione>
+            <Data_utilizzo>2026-10-08</Data_utilizzo>
+        </Dispositivo>
+    </Alunno>
+    <Alunno>
+        <Nome>Gianvito</Nome>
+        <Cognome>Paparella</Cognome>
+        <Dispositivo tipo="Scolastico" codice="6104" >
+            <os>IOS</os>
+            <app>Vscode</app>
+            <Data_assegnazione>2026-10-08</Data_assegnazione>
+            <Data_utilizzo>2026-10-08</Data_utilizzo>
+        </Dispositivo>
+    </Alunno>
+    <Alunno>
+        <Nome>Lorenzo</Nome>
+        <Cognome>Lavacca</Cognome>
+        <Dispositivo tipo="Personale">
+            <os>Windows</os>
+            <app>Linux SubSystem</app>
+            <app>VScode</app>
+            <Data_assegnazione>2026-10-08</Data_assegnazione>
+            <Data_utilizzo>2026-10-08</Data_utilizzo>
+        </Dispositivo>
+    </Alunno>
+    <Alunno>
+    <Nome>Nicolas</Nome>
+        <Cognome>Rizzi</Cognome>
+        <Dispositivo tipo="Personale">
+            <os>Windows</os>
+            <app>VScode</app>
+            <Data_assegnazione>2026-10-08</Data_assegnazione>
+            <Data_utilizzo>2026-10-08</Data_utilizzo>
+        </Dispositivo>
+    </Alunno>
+    <Alunno>
+        <Nome>Luca</Nome>
+        <Cognome>Caldarola</Cognome>
+        <Dispositivo tipo="Scolastico" codice="6074" >
+            <os>IOS</os>
+            <app>Na</app>
+            <Data_assegnazione>2026-10-08</Data_assegnazione>
+            <Data_utilizzo>2026-10-08</Data_utilizzo>
+        </Dispositivo>
+    </Alunno>
+</Sezione>
